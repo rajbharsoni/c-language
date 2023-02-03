@@ -1,1 +1,1 @@
-# c-language
+A C-Program to reverse a number.
